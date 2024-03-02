@@ -1,0 +1,17 @@
+.jumbotron{
+    padding-top: 2rem;
+    background-color: #545454;
+}
+.jumbotron h1{
+    font-size: 2.5rem;
+    font-weight: 300;
+    color: #fff;
+}
+.jumbotron p{
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: #fff;
+}
+nav{
+    position: sticky;
+}
